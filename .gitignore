@@ -1,0 +1,4 @@
+# backup da instalação (tem arquivos da partição EFI e a lista de boot desta máquina)
+backup/
+__pycache__/
+*.log
